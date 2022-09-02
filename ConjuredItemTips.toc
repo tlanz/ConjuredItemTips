@@ -1,0 +1,9 @@
+## Interface: 90207
+## Title: Conjured Item Requirement Tips
+## Notes: Show the minimum level required for food, water conjures, etc.
+## Author: Frobos/Froboz
+## Version: 1.0
+## SavedVariables: ConjuredItemTipsDB
+
+embeds.xml
+ConjuredItemTips.lua
