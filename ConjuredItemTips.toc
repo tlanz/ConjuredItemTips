@@ -1,8 +1,8 @@
 ## Interface: 90207
-## Title: Conjured Item Requirement Tips
-## Notes: Show the minimum level required for food, water conjures, etc.
+## Title: Better Conjure Tips
+## Notes: Show the minimum level required for food, water conjures, mana stones, etc.
 ## Author: Frobos/Froboz
-## Version: 1.0
+## Version: 1.0.1
 ## SavedVariables: ConjuredItemTipsDB
 
 embeds.xml
